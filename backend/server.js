@@ -19,7 +19,8 @@ app.use(notFound);
 // Error Middleware (always last)
 app.use(errorHandler);
 
-const PORT = 5000;
+// 🔥 IMPORTANT FIX FOR RENDER
+const PORT = process.env.PORT || 5000;
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
