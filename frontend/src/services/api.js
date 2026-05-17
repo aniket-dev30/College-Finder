@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:5000/api"
+baseURL: "https://college-finder-b6wp.onrender.com/api"
 });
 
 // ✅ GET all colleges (with search + filter + pagination)
