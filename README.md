@@ -8,8 +8,8 @@ Built as a scalable MVP focusing on product clarity, performance, and system des
 
 ## 🚀 Live Demo
 
-- 🌐 Frontend: https://your-vercel-link.vercel.app
-- ⚙️ Backend: https://your-render-link.onrender.com
+- 🌐 Frontend: https://college-finder-beta-five.vercel.app/
+- ⚙️ Backend: https://college-finder-b6wp.onrender.com
 
 ---
 
